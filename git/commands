@@ -1,0 +1,7 @@
+$ git ini //initialize local git repo
+$ git add <file> //add files to index
+$ git status //check status of working tree
+$ git commit //commit changes
+$ git push //push to remote repo
+$ git pull
+$ git clone
